@@ -29,5 +29,6 @@ The project relies on Python programming language and popular libraries such as 
 
 # Output
 ![dataset](https://github.com/mohdajnaas/weather-forecast-prediction/blob/73dc7e6ce3dc4dd646a7ddf7519d17b5868585db/image.png)
+![prediction](https://github.com/mohdajnaas/weather-forecast-prediction/blob/25d70b08c476ce22bb0a836f05f7fe1c002fafe2/Untitled.png)
 
 
