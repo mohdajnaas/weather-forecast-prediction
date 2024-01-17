@@ -1,4 +1,4 @@
-# weather-forecast-prediction
+# weather-forecast-prediction-using-ml
 create a weather prediction using machine learning for climate changes
 
 # Project Title: Weather Prediction using Machine Learning
